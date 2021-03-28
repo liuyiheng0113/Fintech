@@ -1,1 +1,1 @@
-<img id="img" class="style-scope yt-img-shadow" alt="" width="246" src="https://i.ytimg.com/vi/-GAWUoaMwSk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&amp;rs=AOn4CLDdbHhaS7f1sOM_pMBT5ynhQ2Vo-w">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-GAWUoaMwSk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
