@@ -1,0 +1,1 @@
+<img id="img" class="style-scope yt-img-shadow" alt="" width="246" src="https://i.ytimg.com/vi/-GAWUoaMwSk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&amp;rs=AOn4CLDdbHhaS7f1sOM_pMBT5ynhQ2Vo-w">
